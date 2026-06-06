@@ -139,12 +139,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mirge Sominath Ramesh**
 
 Internship Task: Front-End Framework Basics
 
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
