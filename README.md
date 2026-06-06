@@ -1,22 +1,22 @@
-# 📝 React To-Do App
+# React To-Do App
 
 A modern and responsive To-Do List application built using **React.js**, **Vite**, and **Tailwind CSS**. This project demonstrates the core concepts of React including state management, event handling, and dynamic UI updates.
 
 ---
 
-## 🚀 Features
+## Features
 
-* ✅ Add Tasks
-* ✏️ Edit Tasks
-* 🗑️ Delete Tasks
-* 📊 Task Counter
-* 📱 Responsive Design
-* 🎨 Modern UI with Tailwind CSS
-* ⚡ Fast Development using Vite
+* Add Tasks
+* Edit Tasks
+* Delete Tasks
+* Task Counter
+* Responsive Design
+* Modern UI with Tailwind CSS
+* Fast Development using Vite
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * React.js
 * Vite
@@ -27,7 +27,7 @@ A modern and responsive To-Do List application built using **React.js**, **Vite*
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 TO-DO App
@@ -46,7 +46,7 @@ TO-DO App
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -80,7 +80,7 @@ http://localhost:5173
 
 ---
 
-## 🎯 Usage
+## Usage
 
 ### Add Task
 
@@ -100,7 +100,7 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 * TO-DO App Page
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/8bbac388-4504-436b-9a0c-cde24b060baa" />
 
@@ -116,7 +116,7 @@ http://localhost:5173
 
 
 
-## 📚 React Concepts Used
+## React Concepts Used
 
 * Functional Components
 * JSX
@@ -127,7 +127,7 @@ http://localhost:5173
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Task Completion Checkbox
 * Local Storage Support
@@ -137,7 +137,7 @@ http://localhost:5173
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Mirge Sominath Ramesh**
 
